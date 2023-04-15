@@ -1,16 +1,18 @@
-### Hi there 👋
+**Crystal - Frontend Developer 👋**
 
-<!--
-**ladycrystal/ladycrystal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Crystal. Looking to transition into and start a career in Frontend development. I successfully graduated from a 24-week long Frontend course at [Jagaad Academy](https://academy.jagaad.com/). In the past six months, I have had a great chance to learn and practice a large number of modern technologies that are needed and useful for beginners of Frontend Developement :
 
-Here are some ideas to get you started:
+HTML
+CSS
+SASS
+Javascript
+React
+Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In this GitHub profile you will find some of my projects that cover important topics taken during the course.
+
+💻 Looking for: Junior Frontend Developer position
+📭 You can reach me via: [LinkedIn](https://www.linkedin.com/in/crystal-edem-ahadzi/) | [Email](crystaledemahadzi@gmail.com)
+📌 Current location: Gdansk, Poland
+🚀 Available for: Fully Remote | Relocation | On-site (Gdansk)
+
