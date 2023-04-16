@@ -8,8 +8,6 @@ SASS <br>
 Javascript <br>
 React <br>
 Git <br>
-TypeScript <br>
-Redux <br>
 Next.js <br>
 Docker <br>
 
