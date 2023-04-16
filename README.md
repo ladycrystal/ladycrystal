@@ -2,17 +2,16 @@
 
 Hi, I'm Crystal. Looking to transition into and start a career in Frontend development. I successfully graduated from a 24-week long Frontend course at [Jagaad Academy](https://academy.jagaad.com/). In the past six months, I have had a great chance to learn and practice a large number of modern technologies that are needed and useful for beginners of Frontend Developement :
 
-HTML
-
-CSS
-
-SASS
-
-Javascript
-
-React
-
-Git
+HTML <br>
+CSS <br>
+SASS <br>
+Javascript <br>
+React <br>
+Git <br>
+TypeScript <br>
+Redux <br>
+Next.js <br>
+Docker <br>
 
 In this GitHub profile you will find some of my projects that cover important topics taken during the course.
 
