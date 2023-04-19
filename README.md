@@ -21,5 +21,6 @@ In this GitHub profile you will find some of my projects that cover important to
 
 🚀 Available for: Fully Remote | Relocation | On-site (Gdansk)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ladycrystal&theme=dark)](https://git.io/streak-stats)
+# :fire: My GitHub Stats :
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ladycrystal)](https://github.com/anuraghazra/github-readme-stats)
