@@ -21,3 +21,5 @@ In this GitHub profile you will find some of my projects that cover important to
 
 🚀 Available for: Fully Remote | Relocation | On-site (Gdansk)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ladycrystal)](https://git.io/streak-stats)
+
