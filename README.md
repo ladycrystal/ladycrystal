@@ -23,4 +23,4 @@ In this GitHub profile you will find some of my projects that cover important to
 
 # :fire: My GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ladycrystal)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ladycrystal&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
