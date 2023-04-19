@@ -21,6 +21,6 @@ In this GitHub profile you will find some of my projects that cover important to
 
 🚀 Available for: Fully Remote | Relocation | On-site (Gdansk)
 
-# :fire: My GitHub Stats :
+# :fire: My GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ladycrystal)](https://github.com/anuraghazra/github-readme-stats)
