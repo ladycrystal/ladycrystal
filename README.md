@@ -1,6 +1,6 @@
 **Crystal - Frontend Developer 👋**
 
-Hi, I'm Crystal. Looking to transition into and start a career in Frontend development. I successfully graduated from a 24-week long Frontend course at [Jagaad Academy](https://academy.jagaad.com/). In the past six months, I have had a great chance to learn and practice a large number of modern technologies that are needed and useful for beginners of Frontend Developement :
+Hi, I'm Crystal. Looking to transition into, and start a career in Frontend development. I successfully graduated from a 24-week long Frontend course at [Jagaad Academy](https://academy.jagaad.com/). In the past six months, I have had a great chance to learn and practice a large number of modern technologies that are needed and useful for beginners of Frontend Developement :
 
 HTML <br>
 CSS <br>
