@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Crystal+-+Frontend+Developer)](https://git.io/typing-svg) 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Crystal+-+Frontend+Developer)](https://git.io/typing-svg) 
 
-Hi, I'm Crystal. Looking to transition into, and start a career in Frontend development. I successfully graduated from a 24-week long Frontend course at [Jagaad Academy](https://academy.jagaad.com/). In the past six months, I have had a great chance to learn and practice a large number of modern technologies that are needed and useful for beginners of Frontend Developement :
+Hi :wave:, I'm Crystal. Looking to transition into, and start a career in Frontend development. I successfully graduated from a 24-week long Frontend course at [Jagaad Academy](https://academy.jagaad.com/). In the past six months, I have had a great chance to learn and practice a large number of modern technologies that are needed and useful for beginners of Frontend Developement :
 
 HTML <br>
 CSS <br>
